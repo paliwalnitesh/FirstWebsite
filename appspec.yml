@@ -1,0 +1,10 @@
+version: 0.0
+OS:linux
+files:
+   - source:/index.html
+     destination: /var/www/html
+hooks:
+ Beforeinstall:
+ 
+
+ ApplicationStop:   
